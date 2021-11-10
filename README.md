@@ -1,4 +1,4 @@
-                                                                          Welcome to tianwanjie's blog
+                                                              Welcome to tianwanjie's blog
 
 ## Welcome to GitHub Pages
 
